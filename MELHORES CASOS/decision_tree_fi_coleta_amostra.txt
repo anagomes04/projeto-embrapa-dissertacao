@@ -1,0 +1,41 @@
+                                   %
+INVASORA                    0.000000
+TIPO DE FOLHA               0.000000
+QUANTIDADE                  0.000000
+PESO VERDE (g)              0.000000
+PESO SECO (g)               0.000000
+PLANTAÇÃO                   0.000000
+PASTO                       0.000000
+Nº DE QUADROS               0.000000
+ÁREA DO QUADRO (m²)         0.000000
+ÁREA TOTAL (m²)             0.000000
+PRESSÃO (hPa)               0.000000
+TEMPERATURA MÉDIA (°C)     15.913797
+TEMPERATURA MÁXIMA (°C)    20.745081
+TEMPERATURA MÍNIMA (°C)     0.000000
+UMIDADE RELATIVA (%)       35.136771
+VELOCIDADE DO VENTO (m/s)   0.000000
+DIREÇÃO DO VENTO (°)       23.654229
+PRECIPITAÇÃO (mm)           0.000000
+PROFUNDIDADE (cm)           0.000000
+pH (H20)                    0.000000
+H+Al (cmolc/dm3)            0.000000
+Al (cmolc/dm3)              0.000000
+Ca (cmolc/dm3)              0.000000
+Mg (cmolc/dm3)              0.000000
+K (mg/dm3)                  0.000000
+P (mg/dm3)                  0.000000
+M.O. (dag/kg)               0.000000
+SB (cmolc/dm3)              0.000000
+CTC (cmolc/dm3)             0.000000
+V (%)                       0.000000
+Sat.Al (%)                  0.000000
+B (mg/dm3)                  0.000000
+Zn (mg/dm3)                 0.000000
+Cu (mg/dm3)                 0.000000
+Mn (mg/dm3)                 4.550122
+Fe (mg/dm3)                 0.000000
+Ca/Mg (cmolc/dm3)           0.000000
+Ca/K (cmolc/mg)             0.000000
+Mg/K (cmolc/mg)             0.000000
+Ca+Mg/K (cmolc/mg)          0.000000

@@ -1,0 +1,5 @@
+RESULTADOS ANÁLISE COM PREDIZINDO: PLANTAÇÃO
+Decision tree:	 Accuracy: 98.49%; Precision: 98.90%; Recall: 96.62%; F1-Score: 97.64%
+Random forest:	 Accuracy: 99.57%; Precision: 99.64%; Recall: 98.58%; F1-Score: 99.08%
+KNN:			 Accuracy: 95.68%; Precision: 95.41%; Recall: 85.27%; F1-Score: 87.47%
+SVM:			 Accuracy: 97.19%; Precision: 94.31%; Recall: 90.06%; F1-Score: 91.83%

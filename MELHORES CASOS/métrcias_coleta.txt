@@ -1,0 +1,5 @@
+RESULTADOS ANÁLISE COM PREDIZINDO: COLETA DA AMOSTRA
+Decision tree:	 Accuracy: 99.78%; Precision: 99.60%; Recall: 99.85%; F1-Score: 99.72%
+Random forest:	 Accuracy: 100.00%; Precision: 100.00%; Recall: 100.00%; F1-Score: 100.00%
+KNN:			 Accuracy: 99.78%; Precision: 99.80%; Recall: 99.85%; F1-Score: 99.82%
+SVM:			 Accuracy: 98.92%; Precision: 99.04%; Recall: 99.19%; F1-Score: 99.11%

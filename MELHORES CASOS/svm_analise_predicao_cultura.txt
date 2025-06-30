@@ -1,0 +1,464 @@
+INVASORA               PLANTAÇÃO   PREDIÇÃO
+poaia                  soja        True
+-----                  pasto/soja  True
+cordão de frade        soja        True
+buva                   soja        True
+mentrasto              milho/sorgo True
+buva                   pasto       True
+corda de viola         milho       True
+trapoeraba             milho       True
+mentrasto              soja        True
+serralha               milho       True
+capim mombaça          soja        True
+sorgo selvagem         soja        True
+poaia                  pasto       True
+fedegoso               sorgo       True
+caruru                 sorgo/pasto True
+leiteiro               soja/milho  True
+losna branca           soja/milho  True
+mentrasto              soja        True
+corda de viola         sorgo       True
+caruru                 sorgo       True
+fedegoso               soja        True
+trapoeraba             soja        True
+leiteiro               milho       True
+serralha               sorgo       True
+erva moura             milho/sorgo True
+leiteiro               soja/milho  True
+poaia                  soja/milho  True
+fedegoso               milho/sorgo True
+capim colchão          soja/milho  True
+poaia                  sorgo/pasto True
+cordão de frade        milho       True
+corda de viola         soja        True
+mentrasto              soja/milho  True
+trapoeraba             soja/milho  True
+soja perene            soja/milho  True
+-----                  pasto/soja  False
+poaia                  soja        True
+cordão de frade        soja/milho  True
+corda de viola         milho       True
+mentrasto              soja/milho  True
+guanxuma               soja        True
+buva                   milho/sorgo True
+carrapicho de carneiro soja/milho  True
+cordão de frade        milho       True
+capim mombaça          soja/milho  True
+capim mombaça          milho       True
+fedegoso               soja/milho  True
+poaia                  milho       True
+vassoura rabo de tatu  soja/milho  True
+guanxuma               soja        True
+picão                  sorgo       True
+capim braquiária       soja        True
+fedegoso               milho/sorgo True
+capim colchão          soja        True
+sorgo selvagem         soja/milho  True
+erva de touro          soja/milho  True
+-----                  pasto/soja  True
+cordão de frade        milho       True
+poaia                  milho/sorgo True
+erva de touro          milho       True
+corda de viola         soja/milho  True
+picão                  soja/milho  True
+mentrasto              milho/sorgo True
+trapoeraba             soja/milho  True
+guanxuma               pasto       True
+mentrasto              milho       True
+leiteiro               milho       True
+corda de viola         sorgo       True
+erva moura             milho/sorgo True
+sorgo selvagem         milho/sorgo True
+losna branca           soja/milho  True
+corda de viola         soja/milho  True
+mentrasto              milho/sorgo True
+pé-de-galinha          milho       True
+erva moura             milho       True
+assa-peixe             sorgo       True
+picão                  soja/milho  True
+serralha               milho       True
+trapoeraba             soja/milho  True
+fedegoso               soja        False
+trapoeraba             soja        True
+erva de touro          soja/milho  True
+leiteiro               milho       True
+fedegoso               sorgo/pasto True
+leiteiro               soja        True
+picão                  soja/milho  True
+trapoeraba             milho/sorgo True
+trapoeraba             milho       True
+buva                   sorgo       True
+erva moura             milho       True
+trapoeraba             soja        True
+losna branca           sorgo       True
+poaia                  soja/milho  True
+caruru                 soja/milho  True
+caruru                 soja        True
+trapoeraba             soja/milho  True
+poaia                  soja/milho  True
+carrapicho de carneiro soja/milho  True
+mentrasto              sorgo       True
+pé-de-galinha          pasto       True
+trapoeraba             soja/milho  True
+guanxuma               soja/milho  True
+cordão de frade        soja        True
+picão                  soja/milho  True
+erva de touro          milho       True
+leiteiro               soja        True
+erva moura             pasto       True
+buva                   sorgo       True
+poaia                  milho       True
+beldroega              soja/milho  True
+trapoeraba             milho/sorgo True
+capim colchão          sorgo       True
+vassoura rabo de tatu  soja/milho  True
+apaga-fogo             soja/milho  True
+tiririca               soja        True
+caruru                 pasto       True
+picão                  milho       True
+caruru                 sorgo       True
+caruru                 milho       True
+fedegoso               milho       True
+poaia                  soja        True
+guanxuma               milho/sorgo True
+caruru                 soja/milho  True
+corda de viola         soja/milho  True
+poaia                  soja/milho  True
+mentrasto              milho       True
+mentrasto              sorgo       True
+corda de viola         sorgo       True
+leiteiro               milho/sorgo True
+trapoeraba             soja        True
+fedegoso               sorgo       True
+poaia                  soja        True
+fedegoso               soja/milho  True
+picão                  soja/milho  True
+guanxuma               soja/milho  True
+guanxuma               sorgo       True
+fedegoso               milho/sorgo True
+mentrasto              pasto       True
+vassoura rabo de tatu  sorgo/pasto True
+-----                  pasto/soja  True
+corda de viola         milho/sorgo True
+caruru                 soja/milho  True
+buva                   soja/milho  True
+cordão de frade        soja        True
+guanxuma               sorgo       True
+buva                   soja        True
+cordão de frade        milho/sorgo True
+corda de viola         soja        True
+mentrasto              milho       True
+corda de viola         soja/milho  True
+mamona                 milho/sorgo True
+-----                  milho/sorgo False
+erva moura             milho       True
+tiririca               soja/milho  True
+fedegoso               soja        True
+corda de viola         pasto       True
+guanxuma               milho/sorgo True
+poaia                  soja/milho  True
+tiririca               milho       True
+mentrasto              sorgo       True
+fedegoso               milho       True
+trapoeraba             sorgo       True
+apaga-fogo             pasto       True
+fedegoso               pasto       True
+apaga-fogo             milho/sorgo False
+corda de viola         milho/sorgo True
+poaia                  soja/milho  True
+leiteiro               milho       True
+assa-peixe             soja        True
+vassoura de bruxa      soja/milho  True
+beldroega              soja        True
+trapoeraba             milho       True
+caruru                 soja/milho  True
+caruru                 sorgo       True
+sorgo selvagem         sorgo       True
+trapoeraba             milho       True
+caruru                 milho       True
+erva moura             soja/milho  True
+poaia                  soja/milho  True
+caruru                 soja        True
+pé-de-galinha          pasto       True
+picão                  soja/milho  True
+erva de santa luzia    soja        True
+picão                  milho/sorgo True
+trapoeraba             milho       True
+mentrasto              soja/milho  True
+tiririca               soja/milho  True
+mentrasto              soja/milho  True
+pé-de-galinha          soja/milho  True
+fedegoso               milho       True
+apaga-fogo             milho/sorgo True
+carrapicho de carneiro soja/milho  True
+buva                   soja/milho  True
+guanxuma               milho/sorgo True
+pé-de-galinha          pasto       True
+pé-de-galinha          pasto       True
+capim braquiária       soja/milho  True
+cordão de frade        soja/milho  True
+mentrasto              soja/milho  True
+apaga-fogo             milho/sorgo True
+capim colchão          soja/milho  True
+erva de touro          pasto       True
+trapoeraba             soja/milho  True
+picão                  pasto       True
+corda de viola         pasto       True
+-----                  pasto/soja  True
+leiteiro               milho       True
+erva de santa luzia    milho/sorgo True
+cordão de frade        soja        True
+losna branca           soja/milho  True
+cordão de frade        soja/milho  True
+corda de viola         soja/milho  True
+losna branca           soja/milho  True
+corda de viola         milho       True
+capim colchão          soja        True
+buva                   soja/milho  True
+caruru                 milho/sorgo True
+fedegoso               soja/milho  True
+guanxuma               milho       True
+fedegoso               sorgo       True
+apaga-fogo             soja        True
+mentrasto              soja        True
+corda de viola         milho/sorgo True
+guanxuma               soja/milho  True
+erva de touro          milho       True
+erva de santa luzia    soja/milho  True
+erva quente            soja/milho  True
+corda de viola         soja/milho  True
+caruru                 soja/milho  True
+-----                  pasto       True
+trapoeraba             soja        True
+apaga-fogo             soja/milho  True
+leiteiro               milho       True
+carrapicho de carneiro pasto       False
+mentrasto              sorgo       True
+beldroega              soja/milho  True
+poaia                  soja/milho  True
+fedegoso               milho/sorgo True
+assa-peixe             soja        True
+caruru                 milho       True
+apaga-fogo             soja/milho  True
+trapoeraba             soja/milho  True
+mentrasto              pasto       True
+buva                   soja/milho  True
+erva moura             soja        True
+-----                  pasto/soja  True
+poaia                  soja/milho  True
+pé-de-galinha          soja/milho  True
+sorgo selvagem         soja/milho  True
+caruru                 soja/milho  True
+cordão de frade        sorgo       True
+sorgo selvagem         milho       True
+vassoura rabo de tatu  soja/milho  True
+serralha               milho/sorgo True
+vassoura rabo de tatu  sorgo/pasto True
+corda de viola         soja        True
+caruru                 soja        True
+assa-peixe             soja/milho  True
+-----                  pasto/soja  False
+buva                   soja/milho  True
+fedegoso               soja        True
+picão                  milho       True
+fedegoso               soja/milho  True
+erva quente            sorgo       True
+-----                  pasto/soja  False
+guanxuma               sorgo       True
+erva de santa luzia    milho       True
+buva                   soja/milho  True
+serralha               soja        True
+caruru                 soja        True
+fedegoso               sorgo       True
+mentrasto              soja/milho  True
+cordão de frade        milho/sorgo True
+poaia                  soja/milho  True
+leiteiro               milho/sorgo True
+mentrasto              milho       True
+sorgo selvagem         soja/milho  True
+fedegoso               milho       True
+corda de viola         pasto       True
+corda de viola         milho       True
+cordão de frade        pasto       True
+picão                  soja        True
+capim guiné            soja        True
+corda de viola         soja        True
+mentrasto              sorgo       True
+fedegoso               soja/milho  True
+trapoeraba             sorgo       True
+buva                   milho       True
+caruru                 sorgo       True
+trapoeraba             soja/milho  True
+mentrasto              sorgo       True
+trapoeraba             milho       True
+vassoura rabo de tatu  soja/milho  True
+cordão de frade        milho/sorgo True
+caruru                 milho/sorgo True
+caruru                 milho/sorgo True
+guanxuma               soja        True
+sorgo selvagem         milho/sorgo True
+capim braquiária       soja        True
+-----                  milho/sorgo False
+mentrasto              soja        True
+vassoura de bruxa      soja/milho  True
+erva moura             milho/sorgo True
+pé-de-galinha          milho       True
+fedegoso               soja/milho  True
+capim colchão          soja/milho  True
+apaga-fogo             milho/sorgo True
+buva                   soja/milho  True
+apaga-fogo             milho       True
+erva quente            soja/milho  True
+-----                  milho/sorgo False
+vassoura de bruxa      soja/milho  True
+guanxuma               soja        True
+erva de touro          pasto       True
+capim colchão          milho/sorgo True
+buva                   soja/milho  True
+guanxuma               soja/milho  True
+fedegoso               soja/milho  True
+tiririca               soja        True
+caruru                 milho/sorgo False
+assa-peixe             soja/milho  True
+beldroega              milho/sorgo True
+trapoeraba             soja/milho  True
+pé-de-galinha          pasto       True
+buva                   soja/milho  True
+capim guiné            milho/sorgo True
+cordão de frade        milho/sorgo True
+caruru                 milho       True
+caruru                 soja/milho  True
+poaia                  soja/milho  True
+trapoeraba             milho/sorgo True
+cordão de frade        pasto       True
+apaga-fogo             milho/sorgo True
+capim mombaça          milho       True
+guanxuma               soja        True
+trapoeraba             soja        True
+sorgo selvagem         milho       True
+erva quente            sorgo       True
+erva de santa luzia    soja        True
+cordão de frade        pasto       True
+vassoura rabo de tatu  milho/sorgo True
+caruru                 milho       True
+poaia                  soja/milho  True
+capim mombaça          soja        True
+corda de viola         sorgo/pasto True
+picão                  soja        True
+joá de capote          soja        True
+cordão de frade        soja/milho  True
+caruru                 soja        True
+beldroega              milho/sorgo True
+erva de touro          milho/sorgo True
+assa-peixe             sorgo       True
+vassoura rabo de tatu  milho/sorgo False
+corda de viola         soja        True
+sorgo selvagem         milho/sorgo True
+fedegoso               soja        True
+caruru                 soja        True
+fedegoso               soja/milho  True
+corda de viola         sorgo/pasto True
+capim guiné            milho/sorgo True
+capim colchão          sorgo       True
+corda de viola         pasto       True
+vassoura de bruxa      soja/milho  True
+sorgo selvagem         milho       True
+cordão de frade        pasto       True
+guanxuma               milho/sorgo True
+cordão de frade        soja/milho  True
+sorgo selvagem         milho       True
+capim guiné            soja/milho  True
+fedegoso               soja/milho  True
+caruru                 milho       True
+caruru                 soja/milho  True
+buva                   soja        True
+buva                   soja/milho  True
+caruru                 soja/milho  True
+sorgo selvagem         soja/milho  True
+guanxuma               milho       True
+trapoeraba             milho/sorgo True
+guanxuma               milho       True
+trapoeraba             soja/milho  True
+-----                  milho/sorgo False
+sorgo selvagem         milho/sorgo True
+capim braquiária       soja/milho  True
+cordão de frade        soja/milho  True
+picão                  milho       True
+caruru                 pasto       True
+serralha               soja        True
+vassoura rabo de tatu  soja/milho  True
+guanxuma               milho       True
+corda de viola         sorgo       True
+caruru                 sorgo       True
+beldroega              sorgo       True
+pé-de-galinha          milho       True
+cordão de frade        milho       True
+erva quente            soja/milho  True
+buva                   soja/milho  True
+picão                  sorgo       True
+caruru                 soja        True
+fedegoso               milho       True
+fedegoso               soja        True
+buva                   milho       True
+-----                  pasto/soja  True
+erva de touro          soja        True
+trapoeraba             milho/sorgo True
+trapoeraba             soja/milho  True
+leiteiro               soja/milho  True
+corda de viola         soja/milho  True
+cordão de frade        soja        True
+beldroega              milho/sorgo True
+serralha               milho/sorgo True
+erva de touro          milho       True
+guanxuma               milho/sorgo True
+carrapicho de carneiro milho       True
+pé-de-galinha          soja/milho  True
+capim guiné            soja/milho  True
+erva moura             soja        True
+mentrasto              soja/milho  True
+losna branca           milho/sorgo True
+caruru                 milho/sorgo True
+vassoura rabo de tatu  sorgo/pasto True
+picão                  sorgo       True
+erva de touro          soja/milho  True
+trapoeraba             soja        True
+apaga-fogo             milho/sorgo True
+leiteiro               soja/milho  True
+pé-de-galinha          pasto       True
+corda de viola         soja/milho  True
+losna branca           soja/milho  True
+erva de touro          soja/milho  True
+corda de viola         pasto       True
+erva de touro          milho/sorgo True
+cordão de frade        sorgo       True
+capim mombaça          soja/milho  True
+poaia                  milho       True
+-----                  pasto/soja  True
+erva de touro          pasto       True
+caruru                 soja        True
+poaia                  soja        True
+buva                   pasto       True
+sorgo selvagem         milho       True
+joá de capote          soja/milho  True
+caruru                 milho/sorgo True
+leiteiro               soja        True
+erva de touro          sorgo       True
+trapoeraba             milho       True
+picão                  milho/sorgo True
+erva quente            soja/milho  True
+capim guiné            soja        True
+caruru                 milho       True
+apaga-fogo             soja/milho  True
+-----                  soja        False
+corda de viola         soja/milho  True
+trapoeraba             milho/sorgo True
+erva de touro          milho/sorgo True
+caruru                 milho       True
+capim carrapicho       milho       True
+vassoura de bruxa      soja/milho  True
+losna branca           milho       True
+cordão de frade        soja/milho  True
+losna branca           milho/sorgo True
+poaia                  milho       True
+trapoeraba             milho       True
+erva moura             pasto       True

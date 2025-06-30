@@ -1,0 +1,41 @@
+                                   %
+INVASORA                    0.866576
+TIPO DE FOLHA               0.522840
+QUANTIDADE                  0.653061
+PESO VERDE (g)              1.585406
+PESO SECO (g)               1.834001
+COLETA DA AMOSTRA          10.609409
+PASTO                       4.291694
+Nº DE QUADROS               0.147414
+ÁREA DO QUADRO (m²)         0.293552
+ÁREA TOTAL (m²)             0.227734
+PRESSÃO (hPa)               3.476396
+TEMPERATURA MÉDIA (°C)      4.463548
+TEMPERATURA MÁXIMA (°C)     2.866632
+TEMPERATURA MÍNIMA (°C)     4.317210
+UMIDADE RELATIVA (%)        5.826478
+VELOCIDADE DO VENTO (m/s)   2.737066
+DIREÇÃO DO VENTO (°)        3.539408
+PRECIPITAÇÃO (mm)           1.202103
+PROFUNDIDADE (cm)           0.207441
+pH (H20)                    2.653278
+H+Al (cmolc/dm3)            2.292001
+Al (cmolc/dm3)              3.981539
+Ca (cmolc/dm3)              1.398504
+Mg (cmolc/dm3)              1.126364
+K (mg/dm3)                  0.959504
+P (mg/dm3)                  2.653347
+M.O. (dag/kg)               1.982937
+SB (cmolc/dm3)              1.158775
+CTC (cmolc/dm3)             1.061879
+V (%)                       1.854546
+Sat.Al (%)                  2.737364
+B (mg/dm3)                  1.130911
+Zn (mg/dm3)                 1.547252
+Cu (mg/dm3)                 4.712185
+Mn (mg/dm3)                 4.008215
+Fe (mg/dm3)                 9.616906
+Ca/Mg (cmolc/dm3)           1.824448
+Ca/K (cmolc/mg)             1.400929
+Mg/K (cmolc/mg)             1.208240
+Ca+Mg/K (cmolc/mg)          1.022907

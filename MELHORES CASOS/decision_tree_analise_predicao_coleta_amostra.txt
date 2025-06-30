@@ -1,0 +1,464 @@
+INVASORA               COLETA DA AMOSTRA   PREDIÇÃO
+picão                  na colheita         True
+-----                  na colheita         True
+corda de viola         na lavoura          True
+mentrasto              entre-safra         True
+vassoura de bruxa      entre-safra         True
+cordão de frade        entre-safra         True
+leiteiro               na colheita         True
+poaia                  entre-safra         True
+mentrasto              na colheita         True
+poaia                  entre-safra         True
+caruru                 na colheita         True
+cordão de frade        entre-safra         True
+picão                  na lavoura          True
+caruru                 na colheita         True
+vassoura rabo de tatu  entre-safra         True
+cordão de frade        na lavoura          True
+trapoeraba             na colheita         True
+mentrasto              entre-safra         True
+guanxuma               na lavoura          True
+pé-de-galinha          entre-safra         True
+trapoeraba             na colheita         True
+caruru                 na lavoura          True
+buva                   entre-safra         True
+capim colchão          na colheita         True
+picão                  entre-safra         True
+caruru                 na lavoura          True
+corda de viola         entre-safra         True
+mamona                 entre-safra         True
+capim braquiária       na lavoura          True
+apaga-fogo             entre-safra         True
+caruru                 entre-safra         True
+corda de viola         entre-safra         True
+leiteiro               na colheita         True
+capim mombaça          entre-safra         True
+leiteiro               na colheita         True
+apaga-fogo             entre-safra         True
+trapoeraba             entre-safra         True
+leiteiro               na lavoura          True
+erva moura             entre-safra         True
+erva de santa luzia    na colheita         True
+trapoeraba             na lavoura          True
+poaia                  entre-safra         True
+buva                   entre-safra         True
+mentrasto              na colheita         True
+fedegoso               na lavoura          False
+cordão de frade        na lavoura          True
+fedegoso               na lavoura          True
+poaia                  entre-safra         True
+caruru                 entre-safra         True
+corda de viola         na colheita         True
+serralha               na colheita         True
+caruru                 na colheita         True
+sorgo selvagem         na lavoura          True
+-----                  entre-safra         True
+vassoura rabo de tatu  entre-safra         True
+erva de touro          entre-safra         True
+erva moura             na lavoura          True
+mentrasto              na colheita         True
+carrapicho de carneiro entre-safra         True
+-----                  entre-safra         True
+mentrasto              entre-safra         True
+erva quente            na colheita         True
+cordão de frade        na lavoura          True
+capim amargoso         entre-safra         True
+erva moura             na colheita         True
+fedegoso               na colheita         True
+caruru                 entre-safra         True
+leiteiro               na colheita         True
+caruru                 na colheita         True
+caruru                 na colheita         True
+-----                  na colheita         True
+mentrasto              na colheita         True
+apaga-fogo             entre-safra         True
+caruru                 entre-safra         True
+poaia                  na colheita         True
+buva                   entre-safra         True
+guanxuma               na colheita         True
+leiteiro               entre-safra         True
+poaia                  entre-safra         True
+pé-de-galinha          na colheita         True
+mentrasto              na lavoura          True
+guanxuma               na colheita         True
+poaia                  entre-safra         True
+serralha               na lavoura          True
+erva de touro          entre-safra         True
+vassoura rabo de tatu  entre-safra         True
+trapoeraba             entre-safra         True
+mentrasto              na lavoura          True
+carrapicho de carneiro na colheita         True
+picão                  na colheita         True
+sorgo selvagem         entre-safra         True
+corda de viola         na colheita         True
+corda de viola         na lavoura          True
+losna branca           entre-safra         True
+vassoura rabo de tatu  entre-safra         True
+poaia                  entre-safra         True
+mentrasto              na colheita         True
+picão                  na lavoura          True
+fedegoso               na colheita         True
+trapoeraba             na colheita         True
+erva moura             na colheita         True
+poaia                  entre-safra         True
+apaga-fogo             entre-safra         True
+poaia                  entre-safra         True
+sorgo selvagem         entre-safra         True
+erva quente            na colheita         True
+leiteiro               entre-safra         True
+poaia                  na colheita         True
+caruru                 na colheita         True
+mentrasto              na lavoura          True
+poaia                  na colheita         True
+erva moura             na lavoura          True
+-----                  entre-safra         True
+leiteiro               na colheita         True
+poaia                  entre-safra         True
+apaga-fogo             na colheita         True
+picão                  entre-safra         True
+mentrasto              na colheita         True
+caruru                 na lavoura          True
+guanxuma               na colheita         True
+sorgo selvagem         entre-safra         True
+picão                  na colheita         True
+corda de viola         entre-safra         True
+serralha               entre-safra         True
+pé-de-galinha          na colheita         True
+apaga-fogo             na colheita         True
+corda de viola         entre-safra         True
+apaga-fogo             entre-safra         True
+apaga-fogo             na colheita         True
+mentrasto              na colheita         True
+mentrasto              na lavoura          True
+serralha               entre-safra         True
+guanxuma               entre-safra         True
+trapoeraba             entre-safra         True
+caruru                 entre-safra         True
+assa-peixe             na colheita         True
+vassoura rabo de tatu  entre-safra         True
+apaga-fogo             na colheita         True
+picão                  entre-safra         True
+poaia                  na lavoura          True
+corda de viola         na colheita         True
+corda de viola         na colheita         True
+leiteiro               entre-safra         True
+guanxuma               na lavoura          True
+leiteiro               entre-safra         True
+caruru                 entre-safra         True
+fedegoso               na colheita         True
+capim colchão          na colheita         True
+trapoeraba             na colheita         True
+corda de viola         na colheita         True
+caruru                 na colheita         True
+erva de santa luzia    na lavoura          True
+serralha               entre-safra         True
+mamona                 entre-safra         True
+pé-de-galinha          na colheita         True
+corda de viola         entre-safra         True
+trapoeraba             na colheita         True
+vassoura rabo de tatu  entre-safra         True
+picão                  entre-safra         True
+cordão de frade        entre-safra         True
+poaia                  na colheita         True
+trapoeraba             entre-safra         True
+caruru                 na colheita         True
+apaga-fogo             entre-safra         True
+cordão de frade        entre-safra         True
+buva                   na colheita         True
+erva de santa luzia    na colheita         True
+corda de viola         entre-safra         True
+erva de santa luzia    entre-safra         True
+mentrasto              na lavoura          True
+picão                  na colheita         True
+trapoeraba             na lavoura          True
+mentrasto              na lavoura          True
+erva quente            entre-safra         True
+erva de santa luzia    na colheita         True
+fedegoso               entre-safra         True
+buva                   na colheita         True
+mamona                 entre-safra         True
+picão                  entre-safra         True
+apaga-fogo             entre-safra         True
+buva                   entre-safra         True
+cordão de frade        na lavoura          True
+sorgo selvagem         entre-safra         True
+mentrasto              na lavoura          True
+vassoura rabo de tatu  entre-safra         True
+leiteiro               entre-safra         True
+erva de santa luzia    entre-safra         True
+capim amargoso         entre-safra         True
+-----                  na colheita         True
+caruru                 na colheita         True
+poaia                  entre-safra         True
+leiteiro               entre-safra         True
+capim mombaça          na lavoura          True
+mentrasto              na colheita         True
+-----                  entre-safra         True
+buva                   entre-safra         True
+corda de viola         na colheita         True
+fedegoso               na colheita         True
+leiteiro               na lavoura          True
+mentrasto              entre-safra         True
+leiteiro               entre-safra         True
+cordão de frade        na lavoura          True
+fedegoso               entre-safra         True
+cordão de frade        entre-safra         True
+erva de touro          na lavoura          True
+caruru                 na colheita         True
+sorgo selvagem         entre-safra         True
+erva moura             entre-safra         True
+caruru                 na colheita         True
+trapoeraba             entre-safra         True
+trapoeraba             na colheita         True
+erva de touro          na lavoura          True
+mentrasto              entre-safra         True
+tiririca               na lavoura          True
+caruru                 na lavoura          True
+assa-peixe             na lavoura          True
+serralha               na lavoura          True
+carrapicho de carneiro entre-safra         True
+vassoura rabo de tatu  entre-safra         True
+cordão de frade        na colheita         True
+mentrasto              entre-safra         True
+guanxuma               entre-safra         True
+beldroega              entre-safra         True
+guanxuma               entre-safra         True
+serralha               entre-safra         True
+caruru                 entre-safra         True
+fedegoso               entre-safra         True
+fedegoso               na colheita         True
+apaga-fogo             entre-safra         True
+capim braquiária       entre-safra         True
+serralha               na lavoura          True
+erva de santa luzia    na colheita         True
+trapoeraba             entre-safra         True
+poaia                  na colheita         True
+carrapicho de carneiro na colheita         True
+buva                   entre-safra         True
+mentrasto              na lavoura          True
+leiteiro               entre-safra         True
+capim marmelada        na lavoura          True
+carrapicho de carneiro entre-safra         True
+fedegoso               entre-safra         True
+trapoeraba             na lavoura          True
+erva quente            na colheita         True
+cordão de frade        na colheita         True
+cordão de frade        na lavoura          True
+buva                   entre-safra         True
+apaga-fogo             entre-safra         True
+cordão de frade        na colheita         True
+trapoeraba             na lavoura          True
+-----                  entre-safra         True
+fedegoso               na colheita         True
+losna branca           na colheita         True
+capim colchão          na colheita         True
+caruru                 entre-safra         True
+mentrasto              na colheita         True
+erva de touro          entre-safra         True
+leiteiro               entre-safra         True
+mentrasto              na colheita         True
+mentrasto              entre-safra         True
+erva de touro          na lavoura          True
+poaia                  entre-safra         True
+cordão de frade        entre-safra         True
+carrapicho de carneiro na colheita         True
+corda de viola         na colheita         True
+caruru                 entre-safra         True
+erva quente            entre-safra         True
+caruru                 entre-safra         True
+sorgo selvagem         entre-safra         True
+cordão de frade        na colheita         True
+mentrasto              na colheita         True
+beldroega              na colheita         True
+cordão de frade        na colheita         True
+erva de touro          na lavoura          True
+erva quente            entre-safra         True
+guanxuma               na colheita         True
+fedegoso               na colheita         True
+poaia                  na lavoura          True
+picão                  entre-safra         True
+mentrasto              na colheita         True
+erva de touro          na colheita         True
+caruru                 entre-safra         True
+guanxuma               na colheita         True
+tiririca               entre-safra         True
+capim colchão          entre-safra         True
+erva moura             na colheita         True
+fedegoso               entre-safra         True
+erva moura             entre-safra         True
+serralha               entre-safra         True
+picão                  na colheita         True
+poaia                  entre-safra         True
+apaga-fogo             na colheita         True
+losna branca           na colheita         True
+assa-peixe             na colheita         True
+apaga-fogo             na lavoura          True
+corda de viola         na lavoura          True
+fedegoso               na lavoura          True
+leiteiro               na colheita         True
+trapoeraba             na lavoura          True
+corda de viola         entre-safra         True
+picão                  na colheita         True
+corda de viola         entre-safra         True
+cordão de frade        na lavoura          True
+buva                   na colheita         True
+erva de santa luzia    entre-safra         True
+losna branca           entre-safra         True
+cordão de frade        na lavoura          True
+trapoeraba             na colheita         True
+guanxuma               na colheita         True
+leiteiro               entre-safra         True
+capim colchão          na colheita         True
+-----                  entre-safra         True
+fedegoso               entre-safra         True
+trapoeraba             na lavoura          True
+fedegoso               entre-safra         True
+guanxuma               na lavoura          True
+poaia                  entre-safra         True
+guanxuma               na colheita         True
+leiteiro               na colheita         True
+mentrasto              entre-safra         True
+erva de touro          na lavoura          True
+losna branca           entre-safra         True
+sorgo selvagem         na lavoura          True
+caruru                 na colheita         True
+capim amargoso         na colheita         True
+guanxuma               na lavoura          True
+mentrasto              entre-safra         True
+trapoeraba             na colheita         True
+capim guiné            entre-safra         True
+poaia                  na colheita         True
+joá de capote          entre-safra         True
+poaia                  na lavoura          True
+guanxuma               na lavoura          True
+erva de touro          na lavoura          True
+-----                  entre-safra         True
+apaga-fogo             na colheita         True
+buva                   entre-safra         True
+cordão de frade        entre-safra         True
+capim braquiária       na lavoura          True
+apaga-fogo             entre-safra         True
+serralha               entre-safra         True
+guanxuma               na lavoura          True
+buva                   na colheita         True
+picão                  entre-safra         True
+capim amargoso         na colheita         True
+erva moura             entre-safra         True
+apaga-fogo             na colheita         True
+poaia                  entre-safra         True
+sorgo selvagem         na colheita         True
+capim amargoso         entre-safra         True
+trapoeraba             entre-safra         True
+leiteiro               entre-safra         True
+buva                   entre-safra         True
+guanxuma               na colheita         True
+caruru                 na colheita         True
+apaga-fogo             entre-safra         True
+cordão de frade        na lavoura          True
+caruru                 entre-safra         True
+trapoeraba             entre-safra         True
+beldroega              na colheita         True
+caruru                 na colheita         True
+joá de capote          na lavoura          True
+leiteiro               na colheita         True
+guanxuma               na lavoura          True
+erva de touro          na lavoura          True
+assa-peixe             na colheita         True
+caruru                 na colheita         True
+mamona                 entre-safra         True
+assa-peixe             entre-safra         True
+corda de viola         entre-safra         True
+-----                  entre-safra         True
+trapoeraba             entre-safra         True
+mentrasto              na colheita         True
+poaia                  entre-safra         True
+capim amargoso         na colheita         True
+fedegoso               entre-safra         True
+cordão de frade        entre-safra         True
+assa-peixe             na lavoura          True
+cordão de frade        na colheita         True
+corda de viola         na colheita         True
+losna branca           entre-safra         True
+poaia                  na colheita         True
+corda de viola         entre-safra         True
+fedegoso               entre-safra         True
+beldroega              entre-safra         True
+pé-de-galinha          entre-safra         True
+trapoeraba             entre-safra         True
+cordão de frade        na colheita         True
+caruru                 na colheita         True
+fedegoso               entre-safra         True
+sorgo selvagem         entre-safra         True
+capim colchão          na colheita         True
+erva moura             entre-safra         True
+erva de touro          na lavoura          True
+guanxuma               na colheita         True
+erva de touro          na colheita         True
+trapoeraba             na lavoura          True
+capim mombaça          entre-safra         True
+caruru                 na colheita         True
+beldroega              entre-safra         True
+apaga-fogo             entre-safra         True
+capim guiné            entre-safra         True
+picão                  na colheita         True
+apaga-fogo             na colheita         True
+poaia                  na colheita         True
+leiteiro               na lavoura          True
+fedegoso               na colheita         True
+apaga-fogo             na lavoura          True
+poaia                  entre-safra         True
+cordão de frade        na colheita         True
+corda de viola         na colheita         True
+vassoura de bruxa      entre-safra         True
+guanxuma               entre-safra         True
+buva                   na colheita         True
+caruru                 na lavoura          True
+losna branca           entre-safra         True
+cordão de frade        na colheita         True
+fedegoso               na lavoura          True
+corda de viola         entre-safra         True
+capim braquiária       na lavoura          True
+mentrasto              na colheita         True
+tiririca               entre-safra         True
+caruru                 na lavoura          True
+apaga-fogo             na colheita         True
+caruru                 na colheita         True
+trapoeraba             entre-safra         True
+guanxuma               na colheita         True
+picão                  entre-safra         True
+cordão de frade        entre-safra         True
+corda de viola         entre-safra         True
+caruru                 entre-safra         True
+capim mombaça          na lavoura          True
+picão                  entre-safra         True
+apaga-fogo             entre-safra         True
+corda de viola         na colheita         True
+capim guiné            entre-safra         True
+serralha               na lavoura          True
+sorgo selvagem         entre-safra         True
+corda de viola         entre-safra         True
+leiteiro               na colheita         True
+erva de touro          entre-safra         True
+corda de viola         entre-safra         True
+buva                   entre-safra         True
+fedegoso               na colheita         True
+picão                  na lavoura          True
+buva                   na colheita         True
+-----                  entre-safra         True
+capim guiné            na colheita         True
+poaia                  na colheita         True
+caruru                 na colheita         True
+guanxuma               entre-safra         True
+mentrasto              entre-safra         True
+trapoeraba             entre-safra         True
+serralha               na lavoura          True
+fedegoso               entre-safra         True
+sorgo selvagem         entre-safra         True
+serralha               entre-safra         True
+guanxuma               na colheita         True
+erva moura             entre-safra         True
+corda de viola         entre-safra         True
+trapoeraba             entre-safra         True
+guanxuma               na colheita         True
+apaga-fogo             na colheita         True
+fedegoso               na colheita         True
